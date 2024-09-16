@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Monokhan or also known as Marcelo Reinoso.
+- 👋 Hi, I’m Marcelo Reinoso or also known as @Monokhan.
 - 👀 I’m interested in machine learning, data analytics and practical solutions oriented to the world of mining.
 - 🌱 I’m currently learning  Python, SQL, Power BI, Tableau.
 - 📫 How to reach me  for mail : mizaias21@gmail.com
