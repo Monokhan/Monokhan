@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Marcelo Reinoso or also known as @Monokhan.
-- 👀 I’m interested in machine learning, data analytics and practical solutions oriented to the world of mining.
-- 🌱 I’m currently learning  Python, SQL, Power BI, Tableau.
-- 📫 How to reach me  for mail : mizaias21@gmail.com
+👋 ¡Hola! Soy Marcelo Reinoso, también conocido como @Monokhan.
+👀 Me apasiona el machine learning, el análisis de datos y las soluciones prácticas aplicadas al sector minero.
+🌱 Actualmente, estoy perfeccionando mis habilidades en Python, SQL, Power BI y Tableau.
+📊 Echa un vistazo a mi portafolio de Power BI: Aquí
+📫 Puedes contactarme a través de mi correo: mizaias21@gmail.com
 
 <!---
 Monokhan/Monokhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
