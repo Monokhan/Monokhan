@@ -1,0 +1,32 @@
+name: Serpiente de contribuciones
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generar animación
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#e08a3c&color_dots=#ebedf0,#fde4c8,#f8bb7c,#e08a3c,#9a4f14
+            dist/github-snake-dark.svg?color_snake=#22d3ee&color_dots=#161b22,#3b2414,#6b3d1f,#a0582a,#e08a3c
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img" aria-label="Gestión de Ruta: Mapa satelital de la concesión Santiago–Talca con trabajos programados, flujo de tráfico, incidentes con alertas, clima y caudales, más su histórico.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e1626"/><stop offset="1" stop-color="#0a0f1a"/></linearGradient>
+    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="4s" repeatCount="indefinite"/></linearGradient>
+    <style>text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; } .k { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }</style>
+  </defs>
+  <rect x="1" y="1" width="438" height="208" rx="14" fill="url(#g)" stroke="#1f2b40"/>
+  <rect x="14" y="1" width="412" height="2" fill="url(#edge)"/>
+  <g transform="translate(358,22)"><rect x="-6" y="-4" width="70" height="52" rx="12" fill="#22d3ee" fill-opacity=".08"/><path d="M14 40 L24 6 M44 40 L34 6" stroke="#22d3ee" stroke-width="2.5" fill="none" stroke-linecap="round"/><line x1="29" y1="8" x2="29" y2="40" stroke="#22d3ee" stroke-width="2.5" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" from="0" to="-10" dur=".6s" repeatCount="indefinite"/></line></g>
+  <text class="k" x="24" y="40" font-size="11" letter-spacing="1.5" fill="#22d3ee">VISOR OPERATIVO · TIEMPO REAL</text>
+  <text x="24" y="74" font-size="23" font-weight="700" fill="#e6edf3">Gestión de Ruta</text>
+  <text x="24" y="112" font-size="13.5" fill="#9fb0c6">Mapa satelital de la concesión Santiago–Talca con</text><text x="24" y="132" font-size="13.5" fill="#9fb0c6">trabajos programados, flujo de tráfico, incidentes</text><text x="24" y="152" font-size="13.5" fill="#9fb0c6">con alertas, clima y caudales, más su histórico.</text>
+  <rect x="24" y="172" width="116" height="22" rx="11" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".45"/><text x="82.0" y="187" font-size="11.5" text-anchor="middle" fill="#22d3ee">GitHub Actions</text><rect x="148" y="172" width="88" height="22" rx="11" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".45"/><text x="192.0" y="187" font-size="11.5" text-anchor="middle" fill="#22d3ee">TomTom API</text><rect x="244" y="172" width="102" height="22" rx="11" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".45"/><text x="295.0" y="187" font-size="11.5" text-anchor="middle" fill="#22d3ee">GitHub Pages</text>
+</svg>
