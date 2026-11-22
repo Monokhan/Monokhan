@@ -56,9 +56,9 @@
 
 <p align="center">
   <a href="https://github.com/Monokhan/Gestion-de-Ruta"><img src="assets/card-ruta.svg" width="49%" alt="Gestión de Ruta"/></a>
+  <a href="https://github.com/Monokhan/Gestion-Minera"><img src="assets/card-mina.svg" width="49%" alt="Gestión Minera — Mina La Suerte"/></a>
   <a href="https://github.com/Monokhan/Importa"><img src="assets/card-importo.svg" width="49%" alt="Importo — costeo de importaciones"/></a>
   <a href="https://github.com/Monokhan/Kuzcomed-web"><img src="assets/card-kuzcomed.svg" width="49%" alt="Kuzcomed Web"/></a>
-  <a href="https://github.com/Monokhan/Analisis-de-proyectos-mineros-en-Chile"><img src="assets/card-chile.svg" width="49%" alt="Proyectos en el SEA"/></a>
 </p>
 
 <details>
@@ -67,6 +67,7 @@
 
 | Proyecto | Tema |
 |---|---|
+| [Proyectos en el SEA](https://github.com/Monokhan/Analisis-de-proyectos-mineros-en-Chile) | Datos · Python · 26.953 proyectos |
 | [Compositación de sondajes](https://github.com/Monokhan/Compositacion-de-sondajes-mineros-en-python) | Minería · Python |
 | [Malla de tronadura a cielo abierto](https://github.com/Monokhan/Malla-de-tronadura-Cielo-Abierto-en-python) | Minería · Python |
 | [Estabilidad de taludes (Fellenius)](https://github.com/Monokhan/Estabilidad-de-Talud-aplicacion-del-metodo-de-Fellenius) | Geotecnia · Python |
