@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="364" viewBox="0 0 820 364" role="img" aria-label="Terminal: quién es Marcelo Reinoso">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="390" viewBox="0 0 820 390" role="img" aria-label="Terminal: quién es Marcelo Reinoso">
   <style>text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; white-space: pre; } .cur { animation: b 1s steps(1) infinite; } @keyframes b { 50% { opacity: 0; } }</style>
-  <rect x="1" y="1" width="818" height="362" rx="14" fill="#0b1220" stroke="#22304a"/>
+  <rect x="1" y="1" width="818" height="388" rx="14" fill="#0b1220" stroke="#22304a"/>
   <path d="M1 15 a14 14 0 0 1 14 -14 H805 a14 14 0 0 1 14 14 V40 H1 Z" fill="#111a2c"/>
   <circle cx="26" cy="21" r="6" fill="#ff5f57"/><circle cx="46" cy="21" r="6" fill="#febc2e"/><circle cx="66" cy="21" r="6" fill="#28c840"/>
   <text x="410.0" y="26" text-anchor="middle" font-size="12.5" fill="#6b7a92">monokhan@santiago: ~</text>
@@ -17,13 +17,15 @@
     <text x="32" y="178" clip-path="url(#c4)" font-size="14.5">  <tspan fill="#e6edf3">▸ Pipelines ETL, dashboards Power BI y apps en Power Apps</tspan></text><clipPath id="c5"><rect x="28" y="186" height="24" width="0">
       <animate attributeName="width" values="0.0;17.6;35.1;52.7;70.3;87.9;105.4;123.0;140.6;158.2;175.8;193.3;210.9;228.5;246.0;263.6;281.2;298.8;316.3;333.9;351.5;369.1;386.6;404.2;421.8;439.4;456.9;474.5;492.1;509.7;527.2;544.8;562.4" calcMode="discrete" dur="0.6s" begin="5.05s" fill="freeze"/></rect></clipPath>
     <text x="32" y="204" clip-path="url(#c5)" font-size="14.5">  <tspan fill="#e6edf3">▸ Fundador de Sof.ia — Soluciones feat IA (agentes para pymes)</tspan></text><clipPath id="c6"><rect x="28" y="212" height="24" width="0">
-      <animate attributeName="width" values="0.0;18.7;37.4;56.1;74.8;93.5;112.2;130.9;149.6" calcMode="discrete" dur="0.9s" begin="5.90s" fill="freeze"/></rect></clipPath>
-    <text x="32" y="230" clip-path="url(#c6)" font-size="14.5"><tspan fill='#22d3ee'>$</tspan> <tspan fill="#22d3ee">cat raices.txt</tspan></text><clipPath id="c7"><rect x="28" y="238" height="24" width="0">
-      <animate attributeName="width" values="0.0;17.9;35.8;53.7;71.5;89.4;107.3;125.2;143.1;161.0;178.9;196.8;214.6;232.5;250.4;268.3;286.2;304.1;322.0;339.8;357.7;375.6;393.5;411.4;429.3;447.2;465.1;482.9;500.8;518.7;536.6" calcMode="discrete" dur="0.6s" begin="6.95s" fill="freeze"/></rect></clipPath>
-    <text x="32" y="256" clip-path="url(#c7)" font-size="14.5">  <tspan fill="#e6edf3">▸ Ingeniería minera en Python: tronadura, taludes, sondajes</tspan></text><clipPath id="c8"><rect x="28" y="264" height="24" width="0">
-      <animate attributeName="width" values="0.0;18.9;37.8;56.7;75.7;94.6;113.5;132.4" calcMode="discrete" dur="0.9s" begin="7.80s" fill="freeze"/></rect></clipPath>
-    <text x="32" y="282" clip-path="url(#c8)" font-size="14.5"><tspan fill='#22d3ee'>$</tspan> <tspan fill="#22d3ee">echo $MISION</tspan></text><clipPath id="c9"><rect x="28" y="290" height="24" width="0">
-      <animate attributeName="width" values="0.0;17.6;35.2;52.8;70.5;88.1;105.7;123.3;140.9;158.5;176.1;193.8;211.4;229.0;246.6;264.2;281.8;299.4;317.0;334.7;352.3;369.9;387.5;405.1;422.7;440.3;458.0;475.6;493.2;510.8" calcMode="discrete" dur="0.6s" begin="8.85s" fill="freeze"/></rect></clipPath>
-    <text x="32" y="308" clip-path="url(#c9)" font-size="14.5">  <tspan fill="#f5b041">"Que los datos trabajen para la operación, no al revés."</tspan></text>
-  <rect class="cur" x="32" y="318" width="9" height="17" fill="#22d3ee" opacity="0"><set attributeName="opacity" to="1" begin="9.70s"/></rect>
+      <animate attributeName="width" values="0.0;17.6;35.2;52.8;70.4;88.0;105.6;123.2;140.8;158.4;176.0;193.6;211.2;228.8;246.4;264.0;281.6;299.2;316.8;334.4;352.0;369.6;387.2;404.8;422.4;440.0;457.6;475.2;492.8;510.4;528.0" calcMode="discrete" dur="0.6s" begin="5.90s" fill="freeze"/></rect></clipPath>
+    <text x="32" y="230" clip-path="url(#c6)" font-size="14.5">  <tspan fill="#e6edf3">▸ Importo: costeo de importaciones y F29 para comerciantes</tspan></text><clipPath id="c7"><rect x="28" y="238" height="24" width="0">
+      <animate attributeName="width" values="0.0;18.7;37.4;56.1;74.8;93.5;112.2;130.9;149.6" calcMode="discrete" dur="0.9s" begin="6.75s" fill="freeze"/></rect></clipPath>
+    <text x="32" y="256" clip-path="url(#c7)" font-size="14.5"><tspan fill='#22d3ee'>$</tspan> <tspan fill="#22d3ee">cat raices.txt</tspan></text><clipPath id="c8"><rect x="28" y="264" height="24" width="0">
+      <animate attributeName="width" values="0.0;17.9;35.8;53.7;71.5;89.4;107.3;125.2;143.1;161.0;178.9;196.8;214.6;232.5;250.4;268.3;286.2;304.1;322.0;339.8;357.7;375.6;393.5;411.4;429.3;447.2;465.1;482.9;500.8;518.7;536.6" calcMode="discrete" dur="0.6s" begin="7.80s" fill="freeze"/></rect></clipPath>
+    <text x="32" y="282" clip-path="url(#c8)" font-size="14.5">  <tspan fill="#e6edf3">▸ Ingeniería minera en Python: tronadura, taludes, sondajes</tspan></text><clipPath id="c9"><rect x="28" y="290" height="24" width="0">
+      <animate attributeName="width" values="0.0;18.9;37.8;56.7;75.7;94.6;113.5;132.4" calcMode="discrete" dur="0.9s" begin="8.65s" fill="freeze"/></rect></clipPath>
+    <text x="32" y="308" clip-path="url(#c9)" font-size="14.5"><tspan fill='#22d3ee'>$</tspan> <tspan fill="#22d3ee">echo $MISION</tspan></text><clipPath id="c10"><rect x="28" y="316" height="24" width="0">
+      <animate attributeName="width" values="0.0;17.6;35.2;52.8;70.5;88.1;105.7;123.3;140.9;158.5;176.1;193.8;211.4;229.0;246.6;264.2;281.8;299.4;317.0;334.7;352.3;369.9;387.5;405.1;422.7;440.3;458.0;475.6;493.2;510.8" calcMode="discrete" dur="0.6s" begin="9.70s" fill="freeze"/></rect></clipPath>
+    <text x="32" y="334" clip-path="url(#c10)" font-size="14.5">  <tspan fill="#f5b041">"Que los datos trabajen para la operación, no al revés."</tspan></text>
+  <rect class="cur" x="32" y="344" width="9" height="17" fill="#22d3ee" opacity="0"><set attributeName="opacity" to="1" begin="10.55s"/></rect>
 </svg>

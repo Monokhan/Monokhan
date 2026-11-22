@@ -5,7 +5,6 @@
 <br/>
 
 <a href="mailto:mizaias21@gmail.com"><img src="https://img.shields.io/badge/Escríbeme-0b1220?style=for-the-badge&logo=gmail&logoColor=e08a3c" alt="Email"/></a>
-<a href="https://www.novypro.com/profile_about/marceloizaias"><img src="https://img.shields.io/badge/Portafolio_Power_BI-0b1220?style=for-the-badge&logo=databricks&logoColor=f5b041" alt="Portafolio Power BI"/></a>
 <a href="https://github.com/Monokhan/Kuzcomed-web"><img src="https://img.shields.io/badge/Sof.ia_—_Soluciones_feat_IA-0b1220?style=for-the-badge&logo=sparkfun&logoColor=a78bfa" alt="Sof.ia"/></a>
 <img src="https://komarev.com/ghpvc/?username=Monokhan&label=visitas&color=e08a3c&style=for-the-badge" alt="Visitas al perfil"/>
 
@@ -16,7 +15,7 @@
 ## ⚡ Sobre mí
 
 <div align="center">
-<img src="assets/terminal.svg" width="760" alt="whoami: control de gestión y contratos en una concesión vial; pipelines ETL, dashboards Power BI y Power Apps; fundador de Sof.ia; ingeniería minera en Python"/>
+<img src="assets/terminal.svg" width="760" alt="whoami: control de gestión y contratos en una concesión vial; pipelines ETL, dashboards Power BI y Power Apps; fundador de Sof.ia; Importo; ingeniería minera en Python"/>
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
@@ -31,6 +30,8 @@
 <img src="https://img.shields.io/badge/Power_BI-0b1220?style=for-the-badge&logo=powerbi&logoColor=f5b041"/>
 <img src="https://img.shields.io/badge/Tableau-0b1220?style=for-the-badge&logo=tableau&logoColor=e08a3c"/>
 <img src="https://img.shields.io/badge/Jupyter-0b1220?style=for-the-badge&logo=jupyter&logoColor=e08a3c"/>
+<img src="https://img.shields.io/badge/Plotly-0b1220?style=for-the-badge&logo=plotly&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/SQLite-0b1220?style=for-the-badge&logo=sqlite&logoColor=a78bfa"/>
 
 **Automatización & IA**<br/>
 <img src="https://img.shields.io/badge/n8n-0b1220?style=for-the-badge&logo=n8n&logoColor=a78bfa"/>
@@ -40,10 +41,12 @@
 <img src="https://img.shields.io/badge/Power_Apps-0b1220?style=for-the-badge&logo=powerapps&logoColor=a78bfa"/>
 <img src="https://img.shields.io/badge/SharePoint-0b1220?style=for-the-badge&logo=microsoftsharepoint&logoColor=22d3ee"/>
 
-**Web**<br/>
+**Apps & Web**<br/>
 <img src="https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=e08a3c"/>
 <img src="https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css&logoColor=22d3ee"/>
 <img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=f5b041"/>
+<img src="https://img.shields.io/badge/Streamlit-0b1220?style=for-the-badge&logo=streamlit&logoColor=ff4d5e"/>
+<img src="https://img.shields.io/badge/Leaflet-0b1220?style=for-the-badge&logo=leaflet&logoColor=22d3ee"/>
 
 </div>
 
@@ -53,7 +56,7 @@
 
 <p align="center">
   <a href="https://github.com/Monokhan/Gestion-de-Ruta"><img src="assets/card-ruta.svg" width="49%" alt="Gestión de Ruta"/></a>
-  <a href="https://github.com/Monokhan/Gestion-Minera-v1"><img src="assets/card-mina.svg" width="49%" alt="Gestión Minera"/></a>
+  <a href="https://github.com/Monokhan/Importa"><img src="assets/card-importo.svg" width="49%" alt="Importo — costeo de importaciones"/></a>
   <a href="https://github.com/Monokhan/Kuzcomed-web"><img src="assets/card-kuzcomed.svg" width="49%" alt="Kuzcomed Web"/></a>
   <a href="https://github.com/Monokhan/Analisis-de-proyectos-mineros-en-Chile"><img src="assets/card-chile.svg" width="49%" alt="Proyectos en el SEA"/></a>
 </p>
@@ -94,8 +97,8 @@
 ## 🎧 Mientras programo
 
 <div align="center">
-  <!-- Reemplaza el enlace por tu playlist de Spotify -->
-  <a href="https://open.spotify.com/"><img src="assets/soundtrack.svg" width="760" alt="Soundtrack del código — escuchar en Spotify"/></a>
+  <!-- Para enlazar una playlist: envuelve la imagen en <a href="URL_DE_TU_PLAYLIST">…</a> -->
+  <img src="assets/soundtrack.svg" width="760" alt="Soundtrack del código"/>
 </div>
 
 <img src="assets/footer.svg" width="100%" alt="Gracias por pasar. ¿Construimos algo juntos?"/>
