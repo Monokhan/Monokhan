@@ -15,7 +15,7 @@
 ## ⚡ Sobre mí
 
 <div align="center">
-<img src="assets/terminal.svg" width="760" alt="whoami: control de gestión y contratos en una concesión vial; pipelines ETL, dashboards Power BI y Power Apps; fundador de Sof.ia; Importo; ingeniería minera en Python"/>
+<img src="assets/terminal.svg" width="760" alt="whoami: control de gestión y contratos en una concesión vial; pipelines ETL, dashboards Power BI y Power Apps; fundador de Sof.ia; Importa; ingeniería minera en Python"/>
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
@@ -57,7 +57,7 @@
 <p align="center">
   <a href="https://github.com/Monokhan/Gestion-de-Ruta"><img src="assets/card-ruta.svg" width="49%" alt="Gestión de Ruta"/></a>
   <a href="https://github.com/Monokhan/Gestion-Minera"><img src="assets/card-mina.svg" width="49%" alt="Gestión Minera — Mina La Suerte"/></a>
-  <a href="https://github.com/Monokhan/Importa"><img src="assets/card-importo.svg" width="49%" alt="Importo — costeo de importaciones"/></a>
+  <a href="https://github.com/Monokhan/Importa"><img src="assets/card-importo.svg" width="49%" alt="Importa — costeo de importaciones"/></a>
   <a href="https://github.com/Monokhan/Kuzcomed-web"><img src="assets/card-kuzcomed.svg" width="49%" alt="Kuzcomed Web"/></a>
 </p>
 
